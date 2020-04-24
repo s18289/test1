@@ -1,2 +1,2 @@
 # test1
-Ratushniak Denys s18289 12c
+Denys Ratushniak s18289 12c
